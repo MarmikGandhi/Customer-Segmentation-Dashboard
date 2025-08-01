@@ -2,7 +2,7 @@
 
 This repository provides a complete Power BI solution for **customer segmentation** using **RFM (Recency, Frequency, Monetary) analysis** based on **Asia sales data**. It segments customers to support personalized marketing, retention strategies, and data-driven business decisions.
 
-![Dashboard Preview](./Screenshot%20\(361\).png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
